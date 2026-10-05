@@ -37,6 +37,7 @@ This repository contains the project I did as a part of the coursework for the m
 
 # Repository Structure 🌲
 ```text
+├──.gitattributes
 ├── Assignment.ipynb
 ├── README.md
 ├── shift_screen_fatigue_1200 (4).csv
