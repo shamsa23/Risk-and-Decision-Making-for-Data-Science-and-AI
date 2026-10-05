@@ -1,0 +1,21 @@
+﻿Song ID,Reached 1 million plays,Model Prediction P(Success = Yes)
+S01,No,0.25
+S02,Yes,0.6
+S03,Yes,0.95
+S04,No,0.55
+S05,No,0.05
+S06,Yes,0.7
+S07,No,0.25
+S08,Yes,0.9
+S09,Yes,0.4
+S10,Yes,0.85
+S11,No,0.2
+S12,Yes,0.55
+S13,No,0.4
+S14,Yes,0.9
+S15,Yes,0.65
+S16,No,0.2
+S17,No,0.95
+S18,Yes,0.55
+S19,No,0.1
+S20,No,0.25
