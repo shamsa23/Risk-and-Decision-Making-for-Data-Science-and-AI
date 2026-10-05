@@ -1,6 +1,3 @@
-# Risk and Decision Making for Data Science and AI
-
-
 # About this Repository 📌
 
 This repository contains the project I did as a part of the coursework for the module Risk and Decision-Making for Data Science and AI. The assignment consisted of several individual questions using Bayesian Networks, probabilistic models, machine learning to optimise decision-making under uncertainty.
